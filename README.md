@@ -19,7 +19,7 @@
 - clone repository( git clone https://github.com/jaygajera17/Tour_Management_Asp.Net)
 - open app_data folder
 - right click on database file (.mdf) click modify connection.
-- you can also config your own database by step mention in [database.txt](https://github.com/jaygajera17/Tour_Management_Asp.Net/blob/main/Database.txt) file.
+- you can also config your own database by step mention in [database.txt](https://github.com/SoftDev0125-hub/Tour_Management_Asp.Net/blob/main/Database.txt) file.
 
 ## Important Links
 - 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝘃𝗶𝗱𝗲𝗼 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗗𝗲𝗺𝗼  ::---  [  click here  ](https://youtu.be/r-UfxsVzndk) [![youtube][youtube-shield]][youtube-url]
